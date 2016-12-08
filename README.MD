@@ -9,3 +9,5 @@ level order tarversal question
 ##Construct Binary Tree from Preorder and Inorder Traversal
 
 ##Balanced Binary Tree
+##Construct Binary Tree from inorder and postorder Traversal
+##Invert Binary Tree
