@@ -11,3 +11,4 @@ level order tarversal question
 ##Balanced Binary Tree
 ##Construct Binary Tree from inorder and postorder Traversal
 ##Invert Binary Tree
+##Binary Tree Paths
