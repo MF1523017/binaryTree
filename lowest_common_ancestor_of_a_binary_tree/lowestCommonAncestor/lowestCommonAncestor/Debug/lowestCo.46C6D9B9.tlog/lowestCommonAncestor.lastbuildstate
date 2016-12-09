@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Debug|Win32|H:\c++\leetcode_self\binary_tree\lowest_common_ascestor_of_a_binary_tree\lowestCommonAncestor\|
