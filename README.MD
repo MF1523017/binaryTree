@@ -1,14 +1,14 @@
-#binaryTree(leetcode)
-##binary_tree folder
+# binaryTree(leetcode)
+## binary_tree folder
 just binary Tree
-##Binary Tree Inorder Traversal
+## Binary Tree Inorder Traversal
 inorder traversal question
 
-##level order traversal
+## level order traversal
 level order tarversal question
-##Construct Binary Tree from Preorder and Inorder Traversal
+## Construct Binary Tree from Preorder and Inorder Traversal
 
-##Balanced Binary Tree
-##Construct Binary Tree from inorder and postorder Traversal
-##Invert Binary Tree
-##Binary Tree Paths
+## Balanced Binary Tree
+## Construct Binary Tree from inorder and postorder Traversal
+## Invert Binary Tree
+## Binary Tree Paths
